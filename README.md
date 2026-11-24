@@ -5,7 +5,7 @@
   <img src="docs/banner-light.svg" alt="DanmakuCurve · 弹幕 → 情绪曲线 · danmaku → emotion curve" width="640">
 </picture>
 
-**💬 → 📈 Turn one Bilibili video's danmaku into a time-aligned emotion curve.**
+**💬 → 📈 Turn one Bilibili video's danmaku into a time-aligned emotion curve.**<br>
 **💬 → 📈 把一个 B 站视频的弹幕标成 5 种情绪，按视频时间画成情绪曲线。**
 
 ![license](https://img.shields.io/badge/license-MIT-7c3aed?style=flat-square)
